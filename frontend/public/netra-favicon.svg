@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NETRA">
+  <!-- Outer eye ring -->
+  <path d="M128 40C210 40 244 128 128 128C12 128 46 40 128 40Z" stroke="#00AEEF" stroke-width="18" stroke-linecap="round"/>
+  <!-- Inner pupil glow -->
+  <circle cx="128" cy="128" r="44" fill="#00AEEF" fill-opacity="0.95"/>
+  <circle cx="128" cy="128" r="22" fill="#FFFFFF"/>
+  <!-- Lower eye ring -->
+  <path d="M128 216C46 216 12 128 128 128C244 128 210 216 128 216Z" stroke="#00AEEF" stroke-width="18" stroke-linecap="round"/>
+</svg>

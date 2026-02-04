@@ -1,0 +1,4 @@
+property_id,owner_person_id,property_address,purchase_date,purchase_value_inr
+PROP_ALERT_001,PER_ALERT_001,"Galaxy Towers, Mumbai",2024-11-01,30000000
+PROP_TEST_001,PER_TEST_001,"Sunrise Apts, Andheri, Mumbai",2019-02-12,9500000
+PROP_TEST_002,PER_TEST_002,"Lakeview Residency, Whitefield, Bengaluru",2020-06-25,12500000

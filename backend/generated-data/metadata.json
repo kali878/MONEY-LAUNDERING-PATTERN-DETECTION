@@ -1,0 +1,14 @@
+{
+  "seed": 1113588728,
+  "snapshot": "2026-02-01T04:46:04",
+  "counts": {
+    "persons": 1000,
+    "companies": 200,
+    "accounts": 1900,
+    "directorships": 692,
+    "properties": 200,
+    "cases": 50,
+    "transactions": 20120,
+    "alerts": 0
+  }
+}

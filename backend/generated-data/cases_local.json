@@ -1,0 +1,45 @@
+{
+  "PER00796": {
+    "ai_summary": "Rushil Salvi (ID PER00796) has a composite risk score of 35. Indicators include minor income vs. transactions, significant shell company links and moderate tax status irregularities. (AI request failed)",
+    "person_id": "PER00796",
+    "risk_profile": {
+      "breakdown": {
+        "income": {
+          "label": "Income vs. Transactions",
+          "score": 20
+        },
+        "property": {
+          "label": "High-Value Property",
+          "score": 0
+        },
+        "shell": {
+          "label": "Shell Company Links",
+          "score": 100
+        },
+        "structuring": {
+          "label": "Transaction Structuring",
+          "score": 0
+        },
+        "tax": {
+          "label": "Tax Status Irregularities",
+          "score": 80
+        }
+      },
+      "canonical_alert_score": 35,
+      "final_risk_score": 35,
+      "person_details": {
+        "address": "648, Ghosh Street, Ballia-668582",
+        "dob": "1992-08-23",
+        "full_name": "Rushil Salvi",
+        "monthly_salary_inr": 45000,
+        "pan_number": "TKOBI8646C",
+        "person_id": "PER00796",
+        "tax_filing_status": "Not Filed"
+      },
+      "person_id": "PER00796",
+      "recalculated_risk_score": 35,
+      "scoring_version": 2
+    },
+    "createdAt": "2026-01-31T23:17:26.599602Z"
+  }
+}

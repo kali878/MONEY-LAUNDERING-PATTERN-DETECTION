@@ -1,0 +1,4 @@
+case_id,person_id,case_details,case_date,status
+CASE_ALERT_001,PER_ALERT_001,"Cash structuring pattern observed",2025-08-22,Open
+CASE_TEST_001,PER_TEST_001,"Suspicious cash deposits",2023-11-05,Open
+CASE_TEST_002,PER_TEST_002,"High-value foreign transfers",2024-01-20,Closed
