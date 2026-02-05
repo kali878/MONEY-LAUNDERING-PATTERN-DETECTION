@@ -1,7 +1,7 @@
-# Project ANUP-SECURITY-PORAL
+# Project ANUP-SECURITY-PORTAL
 
 <p align="center">
-  <img src="image-1.png" alt="Anup Security Portal" width="800">
+  <img src="!(image-2.png)" alt="Money Laundering Pattern Detection" width="800">
 </p>
 
 An AI‑powered financial intelligence platform for detecting and investigating suspicious activity across accounts, persons, and companies.
@@ -10,7 +10,7 @@ An AI‑powered financial intelligence platform for detecting and investigating 
 [![Python](https://img.shields.io/badge/python-3.10%2B-yellow.svg)](https://python.org)
 [![React](https://img.shields.io/badge/react-18.2%2B-yellow.svg)](https://reactjs.org)
 [![Neo4j (optional)](https://img.shields.io/badge/neo4j-optional-maroon.svg)](https://neo4j.com)
-[![Deploy with Vercel](https://vercel.com/button)](https://anup-security-portal-ai.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://anup-security-portal.vercel.app/)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://money-laundering-pattern-detection.onrender.com)
 
 </div>
@@ -316,24 +316,25 @@ Frontend environment:
         </tr>
         <tr>
             <td style="padding: 20px;">
-                <img src="https://avatars.githubusercontent.com/kali878" alt="Anup" width="150" style="border-radius: 50%; border: 3px solid #9EFF00;">
+                <img src="https://avatars.githubusercontent.com/kali878" alt="ANUP PATEL" width="150" style="border-radius: 50%; border: 3px solid #9EFF00;">
             </td>
             <td style="text-align: left; padding: 20px;">
-                <strong>Role:</strong> Cybersecurity & Engineering Specialist <br>
-                <strong>Education:</strong> Mahakoshal H.S. School (Topper, >90%) <br>
-                <strong>Certification:</strong> NCC School Certificate <br>
-                <strong>Internship:</strong> Security Analysis & Engineering
+                <strong>Role:</strong> CYBERSECURITY ANALYST & NETWORK SECURITY TRAINEE  <br>
+                <strong>Education:</strong> B.Tech (2022-2026) <br>
+                <strong>Institute Name:</strong> Oriental College of Technology,BHOPAL <br>  
+                <strong>Certification:</strong> NPTEL(cybersecurity&privacy), CISCO(intro to cybersecurity, packet tracer), GOOGLE(cybersecurity) Certificates <br>
+                <strong>Internship:</strong> Security Analysis & Networking 
             </td>
             <td style="text-align: left; padding: 20px;">
-                <strong>Core Tech Stack:</strong> <br>
+                <strong>Core Tech Skill:</strong> <br>
                 • Python & Linux Proficiency <br>
-                • Network Security (Wireshark, Nmap) <br>
-                • TCP/IP & Network Fundamentals <br>
-                • Ethical Hacking & Threat Detection
+                • Network Security (Wireshark, Nmap, OSINT, DHCP) <br>
+                • TCP/IP & Network Fundamentals and various Tools<br>
+                • Ethical Hacking & Threat Detection, Log analysis
             </td>
         </tr>
 </table>
 
 ## License
 
-MIT © Project ANUP-SECURITY-PORTAL contributors
+OCT © Project ANUP-SECURITY-PORTAL contributors
