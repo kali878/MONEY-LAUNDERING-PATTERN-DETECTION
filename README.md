@@ -15,9 +15,6 @@ An AI‑powered financial intelligence platform for detecting and investigating 
 
 </div>
 
-## Demo
-
-Watch the demo on YouTube: [https://youtu.be/r_G-eIlJKkU](https://youtu.be/r_G-eIlJKkU)
 
 ## Overview
 
@@ -201,7 +198,7 @@ Backend:
 3) `pip install -r requirements.txt`
 4) Set environment variables (optional but recommended):
   - `GEMINI_API_KEY` for AI summaries (otherwise a rule‑based fallback is used)
-  - `FRONTEND_URL` for CORS (e.g., http://localhost:5173)
+  - `FRONTEND_URL` for CORS (e.g.,  http://localhost:3000/)
   - `FIREBASE_CREDENTIALS` or `GOOGLE_APPLICATION_CREDENTIALS` if using Firestore
 5) Run: `python app.py` (serves at http://localhost:5001)
 
@@ -288,7 +285,7 @@ project-ANUP-SECURITY-PORTAL/
 ## Configuration
 
 Backend environment:
-- `FRONTEND_URL` (for CORS), e.g., http://localhost:5173
+- `FRONTEND_URL` (for CORS), e.g., http://localhost:3000/
 - `GEMINI_API_KEY` (optional): for AI summaries
 - `FIREBASE_CREDENTIALS` (JSON or base64 JSON) or `GOOGLE_APPLICATION_CREDENTIALS` (path) for Firestore
 - `RISK_ALERT_THRESHOLD` (optional, default 10)
