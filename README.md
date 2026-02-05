@@ -1,7 +1,7 @@
-# PROJECT--->>> ANUP SECURITY PORTAL               
+# PROJECT- ANUP SECURITY PORTAL               
 
 <p align="center">
-  <img src="image-2.png" alt="Money Laundering Pattern Detection" width="800">
+  <img src="image-1.png" alt="Money Laundering Pattern Detection" width="800">
 </p>
 
 An AI‑powered financial intelligence platform for detecting and investigating suspicious activity across accounts, persons, and companies.
