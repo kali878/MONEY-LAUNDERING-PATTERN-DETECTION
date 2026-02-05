@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Project ANUP-SECURITY-PORAL
 =======
-# ANUP-SECURITY-PORTAL
->>>>>>> 84acf3ddd2407ca0e8de11a731dabd2169286c77
 
 <p align="center">
   <img src="image-1.png" alt="Anup Security Portal" width="800">
