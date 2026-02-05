@@ -1,5 +1,4 @@
 # Project ANUP-SECURITY-PORAL
-=======
 
 <p align="center">
   <img src="image-1.png" alt="Anup Security Portal" width="800">
@@ -7,12 +6,12 @@
 
 An AI‑powered financial intelligence platform for detecting and investigating suspicious activity across accounts, persons, and companies.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://python.org)
-[![React](https://img.shields.io/badge/react-18.2%2B-blue.svg)](https://reactjs.org)
-[![Neo4j (optional)](https://img.shields.io/badge/neo4j-optional-green.svg)](https://neo4j.com)
+[![License](https://img.shields.io/badge/license-OCT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-yellow.svg)](https://python.org)
+[![React](https://img.shields.io/badge/react-18.2%2B-yellow.svg)](https://reactjs.org)
+[![Neo4j (optional)](https://img.shields.io/badge/neo4j-optional-darkgrren.svg)](https://neo4j.com)
 [![Deploy with Vercel](https://vercel.com/button)](https://anup-security-portal-ai.vercel.app/)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://anup-security-portal-8j8n.onrender.com)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://money-laundering-pattern-detection.onrender.com)
 
 </div>
 

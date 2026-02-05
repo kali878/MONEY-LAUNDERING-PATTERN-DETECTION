@@ -1,4 +1,4 @@
-person_id,full_name,dob,pan_number,address,monthly_salary_inr,tax_filing_status
+person_id,full_name,sex,email,dob,pan_number,address,monthly_salary_inr,tax_filing_status
 PER00001,Sneha Kamdar,1960-04-22,MNKRL6567D,"16/726, Chaudhuri Nagar, Suryapet 437348",35000,Filed
 PER00002,Mitali Garde,1960-08-05,LEMJZ8713M,"763, Setty Ganj, Narasaraopet 125180",0,Filed
 PER00003,Abdul Sani,1996-09-19,QIENX3393L,"H.No. 596, Chhabra Zila, Latur-157418",80000,Filed
