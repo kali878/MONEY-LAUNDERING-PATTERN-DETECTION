@@ -4,16 +4,9 @@
 # ANUP-SECURITY-PORTAL
 >>>>>>> 84acf3ddd2407ca0e8de11a731dabd2169286c77
 
-<div align="center">
-
-<pre>
-███╗   ██╗███████╗████████╗██████╗  █████╗
-████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
-██╔██╗ ██║█████╗     ██║   ██████╔╝███████║
-██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══██║
-██║ ╚████║███████╗   ██║   ██║  ██║██║  ██║
-╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-</pre>
+<p align="center">
+  <img src="image-1.png" alt="Anup Security Portal" width="800">
+</p>
 
 An AI‑powered financial intelligence platform for detecting and investigating suspicious activity across accounts, persons, and companies.
 
